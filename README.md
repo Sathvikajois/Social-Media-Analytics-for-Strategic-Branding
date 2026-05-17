@@ -1,4 +1,4 @@
-## TESLA SOCILA MEDIA ANALYTICS FOR STRATERGY BRANDING
+## TESLA SOCIAL MEDIA ANALYTICS FOR STRATEGY BRANDING
 
 ## Project Overview:
 This project analyzes Tesla’s social media performance across platforms such as Twitter (X), Instagram, YouTube, and LinkedIn. The goal was to identify engagement trends, campaign effectiveness, follower growth patterns, and content strategies using Excel analytics and dashboards.
